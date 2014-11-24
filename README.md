@@ -1,3 +1,4 @@
+class NihonTyper = {
 joint = ''
 typed_words = []
 ru = 'ル'
@@ -22,3 +23,4 @@ for item in typed_words:
 print(len(characters_list))
 print(typed_words)
 print(joint)
+ }
